@@ -1,0 +1,30 @@
+body {
+    margin: 0; 
+}
+
+#chat-stream {
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+    display: flex; 
+    align-items: flex-end; 
+    height: 50vh; 
+}
+h1 {
+    margin: 40px;
+    text-align: center;
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+    color: black;
+    
+    
+}
+
+#compose {
+    padding: 60px;
+    
+    text-align: center;
+    height: 100px; 
+}
+
+
+
